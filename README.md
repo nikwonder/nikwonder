@@ -6,7 +6,7 @@ Hiya, I'm NikWonder, a.k.a Nik. My full name's Nikita, and I'm a belarusian prog
 I really like programming. Programming has been my hobby since 6-8 years old, and I still enjoy it. I also enjoy designing and tech stuff.
 Out of music I enjoy breakcore, and out of games I enjoy:
 - Garry's Mod
-- Geometry Dash.
+- Geometry Dash
 - Counter Strike: Source
 
 I like pizza, and also like coffee.
