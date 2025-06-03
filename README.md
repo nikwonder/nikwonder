@@ -9,7 +9,7 @@ Out of music I enjoy breakcore, and out of games I enjoy:
 - Geometry Dash
 - Counter Strike: Source
 
-I like pizza, and also like coffee.
+I also like pizza, and coffee.
 
 ## Projects
 I had a few projects before GitHub, I think everyone had too. 
