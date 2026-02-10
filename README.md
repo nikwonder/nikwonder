@@ -1,4 +1,5 @@
-i'll redo it soon lol
+# nikwonder
+i'm everywhere (almost)
 
 <!---
 nikwonder/nikwonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
