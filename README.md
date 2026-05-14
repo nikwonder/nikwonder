@@ -9,7 +9,7 @@
 ---
 
 📋 **also i have many accounts:**
-- twitter: `@corenikwonder`
+- X (twitter): `@corenikwonder`
 - bluesky: `@nikwonder.ru`
 - xmpp: `nikwonder@jabber.ru`, `nikwonder@conversations.im`, `nikwonder@linux.monster`
 - escargot: `nikwonder@escargot.chat`
