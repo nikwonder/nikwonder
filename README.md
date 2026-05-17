@@ -4,7 +4,7 @@
 🌍 **languages:** english, russian, belorussian<br>
 ✨ **interests:** tech, programming, ui/ux design<br>
 💬 **contact me:** [email](mailto:administrator@nikwonder.ru), [telegram](https://t.me/corenikw)<br>
-🌐 **my website:** [nikwonder.ru](https://nikwonder.ru/)
+🌐 **my websites:** [nikwonder.ru](https://nikwonder.ru/), [nikwonder.neocities.org](https://nikwonder.neocities.org/)
 
 ---
 
