@@ -3,17 +3,19 @@
 💻 **i'm learning** Python and C#<br>
 🌍 **languages:** english, russian, belorussian<br>
 ✨ **interests:** tech, programming, ui/ux design<br>
-💬 **contact me:** [email](mailto:administrator@nikwonder.by), [telegram](https://t.me/nikwondr)<br>
+💬 **contact me:** [email](mailto:nikwnadet@gmail.com), [telegram](https://t.me/nikwondr)<br>
 🌐 **my websites:** [nikwonder.by](https://nikwonder.by/), [nikwonder.neocities.org](https://nikwonder.neocities.org/)
 
 ---
 
 📋 **also i have many accounts:**
 - X (twitter): `@corenikwonder`
-- bluesky: `@nikwonder.ru`
-- xmpp: `nikwonder@jabber.ru`, `nikwonder@conversations.im`, `nikwonder@linux.monster`
+- bluesky: `@nikwonder.by`
+- xmpp: `nikwonder@jabber.ru`, ~~`nikwonder@conversations.im`, `nikwonder@linux.monster`~~
 - escargot: `nikwonder@escargot.chat`
 - renaissance: `nikwondr@mail.ru`
+
+crossed out = won't answer
 
 ---
 
