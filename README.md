@@ -5,6 +5,7 @@
 ✨ **interests:** tech, programming, ui/ux design<br>
 💬 **contact me:** [email](mailto:nikwnadet@gmail.com), [telegram](https://t.me/nikwondr)<br>
 🌐 **my websites:** [nikwonder.by](https://nikwonder.by/), [nikwonder.neocities.org](https://nikwonder.neocities.org/)
+📱 **i use arch linux & google pixel btw**
 
 ---
 
