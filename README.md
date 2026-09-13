@@ -10,13 +10,13 @@
 ---
 
 📋 **also i have many accounts:**
-- X (twitter): `@corenikwonder`
+- X (twitter): `@nikwondr`
 - bluesky: `@nikwonder.by`
 - xmpp: `nikwonder@jabber.ru`, ~~`nikwonder@conversations.im`, `nikwonder@linux.monster`~~
 - escargot: `nikwonder@escargot.chat`
 - renaissance: `nikwondr@mail.ru`
 
-crossed out = won't answer
+*crossed out = won't answer*
 
 ---
 
