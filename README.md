@@ -12,7 +12,7 @@
 📋 **also i have many accounts:**
 - X (twitter): `@nikwondr`
 - bluesky: `@nikwonder.by`
-- xmpp: `nikwonder@jabber.ru`, ~~`nikwonder@conversations.im`, `nikwonder@linux.monster`~~
+- xmpp: `nikwonder@jabber.ru`, `nikwonder@conversations.im`, `nikwondr@linux.monster`
 - escargot: `nikwonder@escargot.chat`
 - renaissance: `nikwondr@mail.ru`
 
